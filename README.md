@@ -17,7 +17,7 @@
 
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/19d41VaOE7EtEnS_QM_sK6fuzvOuiw6oE/view)
 
-- ⚡ Fun fact **I never really liked coding, but here I am, learning JavaScript!**
+- ⚡ Fun fact **I never really liked coding, but here I am, learning Python & JavaScript!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
