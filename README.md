@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **garvkamra24@gmail.com**
 
-- 📄 Know about my [Experiences](https://drive.google.com/file/d/19d41VaOE7EtEnS_QM_sK6fuzvOuiw6oE/view)
+- 📄 Know about my [Experiences](https://drive.google.com/file/d/19TMo4hAo1somljO4hsmkFatnNPDm8r_8/view?usp=sharing)
 
 - ⚡ Fun fact **I never really liked coding, but here I am, learning Python & JavaScript!**
 
