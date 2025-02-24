@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=securegarv20&label=Profile%20views&color=0e75b6&style=flat" alt="securegarv20" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available [here](https://securegarv20.github.io/Portfolio/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/15iPfaZH2yzDdNzuNhAvnNFxsR5l6V1zp/view?usp=sharing)
 
-- ⚡ Fun fact **I never really liked coding, but here I am, learning Python & JavaScript!**
+- ⚡ Fun fact **I never really liked coding, but here I am, doing Frontend Development!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
