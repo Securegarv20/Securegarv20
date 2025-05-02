@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available [here](https://securegarv20.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available [here](https://securegarv.netlify.app/)
 
 - 📫 How to reach me **garvkamra24@gmail.com**
 
-- 📄 Know about my [Experiences](https://drive.google.com/file/d/15iPfaZH2yzDdNzuNhAvnNFxsR5l6V1zp/view?usp=sharing)
+- 📄 Know about my [Experiences](https://drive.google.com/file/d/1skRKmA4gnJZiP_EMTxjzdhtWxsrIiRyW/view?usp=sharing)
 
 - ⚡ Fun fact **I never really liked coding, but here I am, doing Frontend Development!**
 
