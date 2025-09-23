@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available [here](https://securegarv.netlify.app/)
+- 👨‍💻 Know more about me [here](https://www.securegarv.me/)
 
 - 📫 How to reach me **garvkamra24@gmail.com**
 
