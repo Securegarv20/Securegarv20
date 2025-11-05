@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **garvkamra24@gmail.com**
 
-- 📄 Know about my [Experiences](https://drive.google.com/file/d/1skRKmA4gnJZiP_EMTxjzdhtWxsrIiRyW/view?usp=sharing)
-
 - ⚡ Fun fact **I never really liked coding, but here I am, doing Frontend Development!**
 
 <h3 align="left">Connect with me:</h3>
